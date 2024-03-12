@@ -1,3 +1,5 @@
+DataValley_assignment1
+
 Sort.java - 1)write a java code for sorting an array, and find number of occurrences of a particular number in java.
 
 Max.java - 1)write a java code to find the maximum element in array.
